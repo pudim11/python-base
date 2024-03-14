@@ -1,0 +1,12 @@
+olá, %(nome)s
+ 
+tem interesse em comprar %(produto)s?
+ 
+este produto é ótimo para resolver
+%(texto)s
+ 
+Clieque agora em %(link)s
+ 
+Apenas %(quantidade)d disponeiveis!
+ 
+Preço promocional %(preco).2f

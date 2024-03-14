@@ -1,0 +1,2 @@
+minha	geral	está é uma nota geral
+minha	tecnologia	python é baum
